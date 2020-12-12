@@ -45,13 +45,17 @@
 
 ## API consumida
 
-  [Produtos](https://rocketseat-node.herokuapp.com/api/products)
+  Listagem de [Produtos](https://rocketseat-node.herokuapp.com/api/products)
 
 ## Incluindo bibliotecas
 
   $ yarn add axios
 
   $ yarn add react-router-dom
+
+## Demo
+
+  A [aplicação Huntweb](https://huntwebreactjs.herokuapp.com/) foi publicada no Heroku
 
 ## Próximos passos para estudar
 
